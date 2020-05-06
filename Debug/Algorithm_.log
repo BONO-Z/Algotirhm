@@ -1,3 +1,0 @@
-﻿  BOJ_Hello_World.c
-C:\Users\qcwv1\source\repos\Algorithm_\Algorithm_\BOJ_Hello_World.c(7,10): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
-  Algorithm_.vcxproj -> C:\Users\qcwv1\source\repos\Algorithm_\Debug\Algorithm_C.exe
